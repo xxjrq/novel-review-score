@@ -1,0 +1,14 @@
+{
+  "scope": "sample",
+  "average": 6.67,
+  "status": "complete",
+  "dimensions": [
+    {"dimension": "开篇与钩子", "score": 7},
+    {"dimension": "人物与动机", "score": 7},
+    {"dimension": "冲突与节奏", "score": 7},
+    {"dimension": "情节与因果", "score": 7},
+    {"dimension": "场景与表达", "score": 6},
+    {"dimension": "原创与完成度", "score": 6}
+  ],
+  "top_actions": ["补强人物选择的代价", "核对转折因果", "统一场景细节"]
+}

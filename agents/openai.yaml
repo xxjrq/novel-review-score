@@ -1,0 +1,9 @@
+interface:
+  display_name: "小说审稿评分"
+  short_description: "六维评分并给出证据和改稿动作"
+  icon_small: "./assets/icon-512.png"
+  icon_large: "./assets/icon-512.png"
+  brand_color: "#C8792B"
+  default_prompt: "使用 $novel-review-score 评审这段小说，逐项给证据和修改建议。"
+policy:
+  allow_implicit_invocation: true
