@@ -1,10 +1,11 @@
 name: "novel-review-score"
 display_name: "小说审稿评分"
 slug: "novel-review-score"
-version: "1.0.0"
+version: "1.0.1"
 category: "writing"
 author: "xxjrq"
-description: "用六个维度给小说评分，附原文证据、影响和可执行修改建议。"
+repository: "https://github.com/xxjrq/novel-review-score"
+description: "按开篇、人物、冲突、叙事、语言和商业表达六个维度给中文小说评分，附原文证据、问题影响和可执行改稿建议。"
 icon: "icon-512.png"
 trigger_words:
   - "小说评分"

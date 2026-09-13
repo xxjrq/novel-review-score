@@ -1,6 +1,6 @@
 {
   "name": "novel-review-score",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "按六个维度审稿评分中文小说，输出原文证据、问题影响和修改建议。",
   "private": false,
   "license": "MIT",

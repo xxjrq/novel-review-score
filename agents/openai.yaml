@@ -1,6 +1,6 @@
 interface:
   display_name: "小说审稿评分"
-  short_description: "六维评分并给出证据和改稿动作"
+  short_description: "按六个维度评审中文小说，逐项给出原文证据、问题影响和改稿建议"
   icon_small: "./assets/icon-512.png"
   icon_large: "./assets/icon-512.png"
   brand_color: "#C8792B"

@@ -1,6 +1,6 @@
 ---
 name: novel-review-score
-description: 对中文小说或章节做六维审稿评分，逐项给出原文证据、问题影响和可执行修改建议。适用于编辑初筛、自检和改稿复盘；评分是辅助意见，不代表签约、过审或市场结果。
+description: 对中文小说、梗概或章节做六维审稿评分，逐项给出原文证据、问题影响和可执行修改建议，并输出 Markdown 与 JSON。适用于编辑初筛、自检、横向比较和改稿复盘；评分是辅助意见，不代表签约、过审或市场结果。
 ---
 
 # 小说审稿评分
@@ -39,4 +39,3 @@ description: 对中文小说或章节做六维审稿评分，逐项给出原文�
 python3 scripts/self_test.py self-test
 python3 scripts/self_test.py review --input examples/success-input.md --output /tmp/review-output
 ```
-
