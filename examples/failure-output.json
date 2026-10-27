@@ -1,1 +1,4 @@
-{"status":"needs_more_source","message":"评分需要正文或梗概证据，不能只凭书名和目标分数。"}
+{
+  "status": "needs_more_source",
+  "message": "目前只有书名和要求打满分；请提供梗概、章节或正文，并注明本次评审范围。"
+}
